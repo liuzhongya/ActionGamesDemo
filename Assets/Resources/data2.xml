@@ -1,0 +1,30 @@
+<skills>
+  <skill>
+    <id>1</id>
+    <name lang="cn">零度绝对</name>
+    <damage>275</damage>
+  </skill>
+  <skill>
+    <id>2</id>
+    <name lang="cn">天下无双</name>
+    <damage>
+      100
+    </damage>
+  </skill>
+  <skill>
+    <id>3</id>
+    <name lang="cn">永恒零度</name>
+    <damage>90</damage>
+  </skill>
+  <skill>
+    <id>4</id>
+    <name lang="en">xxx</name>
+    <damage>456</damage>
+  </skill>
+  <skill>
+    <id>5</id>
+    <name lang="en">sixsixsix</name>
+    <damage>666</damage>
+  </skill>
+
+</skills>
